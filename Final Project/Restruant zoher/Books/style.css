@@ -1,0 +1,19 @@
+body {
+  width: 50%;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+  color: rgb(51, 37, 37);
+}
+h1 {
+  text-align: center;
+  color: #3a4b4b;
+}
+img {
+  width: 30%;
+}
+ul {
+  background-color: #87adad;
+  padding: 30px;
+}
